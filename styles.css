@@ -204,7 +204,9 @@ a {
     margin-bottom: 50px;
 }
 
-
+.phoneindex h4 {
+    font-size: 37px;
+}
 
 .pizzaimages {
     display: flex;
@@ -457,3 +459,4 @@ a {
     margin-top: 0;
     margin-bottom: 6px;
 }
+
